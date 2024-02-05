@@ -1,0 +1,23 @@
+.wrapper {
+  width: 25%;
+}
+
+.wrapper p {
+  width: 100%;
+}
+
+.wrapper img {
+  width: 100%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.orange_highlight {
+  background-color: orange;
+}
+
+.red_text {
+  color: red;
+}
